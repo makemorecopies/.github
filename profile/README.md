@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/assets/banner.png" alt="makemorecopies" width="720" />
-</p>
-
 Software is worth keeping.
 
 We build open-source tools for finding, installing, distributing, and preserving software.
